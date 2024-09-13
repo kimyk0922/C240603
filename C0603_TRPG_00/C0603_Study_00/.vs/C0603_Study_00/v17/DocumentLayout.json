@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Main_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Main_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF3C432F-F18B-4A2A-9972-EAC619DB76DE}|C0603_Study_00.vcxproj|solutionrelative:Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Monster.cpp",
+              "RelativeDocumentMoniker": "Monster.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Monster.cpp",
+              "RelativeToolTip": "Monster.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T04:43:00.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.h",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Monster.h",
+              "RelativeDocumentMoniker": "Monster.h",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Monster.h",
+              "RelativeToolTip": "Monster.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T04:39:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Actor.cpp",
+              "RelativeDocumentMoniker": "Actor.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Actor.cpp",
+              "RelativeToolTip": "Actor.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T04:36:53.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Actor.h",
+              "RelativeDocumentMoniker": "Actor.h",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Actor.h",
+              "RelativeToolTip": "Actor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T04:24:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T04:24:14.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T04:23:14.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "19e4ff71-5b89-4c57-9d7d-0cb017d9f4f8",
+        "Display": 0,
+        "X": 1094,
+        "Y": 102,
+        "Width": 831,
+        "Height": 830,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main_00.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Main_00.cpp",
+              "RelativeDocumentMoniker": "Main_00.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\Main_00.cpp",
+              "RelativeToolTip": "Main_00.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T04:15:06.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

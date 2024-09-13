@@ -1,0 +1,3 @@
+﻿  World_Mission.cpp
+C:\study\C++\study\24.06.03\C0603_Mission_00\World_Mission.cpp(75,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C0603_Mission_00.vcxproj -> C:\study\C++\study\24.06.03\C0603_Mission_00\x64\Debug\C0603_Mission_00.exe

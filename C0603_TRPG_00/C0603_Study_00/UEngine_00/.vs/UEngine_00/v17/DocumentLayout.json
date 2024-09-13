@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E800547-A0E9-42B7-B0B7-DD52390F5D6D}|UEngine_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E800547-A0E9-42B7-B0B7-DD52390F5D6D}|UEngine_00.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E800547-A0E9-42B7-B0B7-DD52390F5D6D}|UEngine_00.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E800547-A0E9-42B7-B0B7-DD52390F5D6D}|UEngine_00.vcxproj|solutionrelative:Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\Engine.h",
+              "RelativeDocumentMoniker": "Engine.h",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\Engine.h*",
+              "RelativeToolTip": "Engine.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T07:58:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.06.03\\C0603_TRPG_00\\C0603_Study_00\\UEngine_00\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T07:40:43.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

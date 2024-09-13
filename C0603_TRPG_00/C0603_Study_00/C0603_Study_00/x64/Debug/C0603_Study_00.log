@@ -1,0 +1,23 @@
+﻿  Actor.cpp
+  Main_00.cpp
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(31,2): error C2059: syntax error: 'for'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(31,14): error C2065: 'x': undeclared identifier
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(31,23): error C2065: 'x': undeclared identifier
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(31,24): error C2059: syntax error: ')'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(33,3): error C2059: syntax error: 'if'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(34,3): error C2143: syntax error: missing ';' before '{'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(46,2): error C2059: syntax error: '}'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(48,2): error C2059: syntax error: 'delete'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(49,2): error C2059: syntax error: 'delete'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(51,2): error C2059: syntax error: 'return'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(52,1): error C2059: syntax error: '}'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(52,1): error C2143: syntax error: missing ';' before '}'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(55,1): error C2143: syntax error: missing ';' before '{'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(55,1): error C2447: '{': missing function header (old-style formal list?)
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Actor.cpp(62,2): error C2059: syntax error: 'return'
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Main_00.cpp(5,11): error C2006: '#include': expected "FILENAME" or <FILENAME>
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Main_00.cpp(5,11): error C1083: Cannot open include file: '': No such file or directory
+  Monster.cpp
+  Player.cpp
+  Generating Code...
+C:\study\C++\study\24.06.03\C0603_TRPG_00\C0603_Study_00\Monster.cpp(21,1): error C4716: 'FMonster::Spawn': must return a value
